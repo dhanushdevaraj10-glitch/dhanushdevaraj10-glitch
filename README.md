@@ -112,10 +112,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushdevaraj10-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
 ---
 
 ## 🔗 📬 Connect With Me
