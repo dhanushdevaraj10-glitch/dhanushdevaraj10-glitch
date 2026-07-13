@@ -56,6 +56,16 @@
       <td>Educational info platform</td>
       <td align="center"><a href="https://eduif2-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
     </tr>
+    <tr>
+      <td><b>🎮 Flappy Game</b></td>
+      <td>Fun browser-based arcade game</td>
+      <td align="center"><a href="https://flappy-game-oyjc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🛒 Trendorara</b></td>
+      <td>Online shopping platform</td>
+      <td align="center"><a href="https://trendorara.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
+    </tr>
   </tbody>
 </table>
 
