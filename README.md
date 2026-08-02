@@ -66,6 +66,11 @@
       <td>Online shopping platform</td>
       <td align="center"><a href="https://trendorara.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
     </tr>
+    <tr>
+      <td><b>📖 DCodex</b></td>
+      <td>Studying platform</td>
+      <td align="center"><a href="https://dcodex-k7rf.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
+    </tr>
   </tbody>
 </table>
 
