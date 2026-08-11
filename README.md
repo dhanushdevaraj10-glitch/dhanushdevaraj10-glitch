@@ -32,47 +32,14 @@
 
 <br/>
 
-<table>
-  <thead>
-    <tr>
-      <th>🖥️ Project</th>
-      <th>📝 Description</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🍔 Food Shop</b></td>
-      <td>Online food ordering platform</td>
-      <td align="center"><a href="https://food-shop-11.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>🛍️ DD Shoppy</b></td>
-      <td>E-commerce shopping app</td>
-      <td align="center"><a href="https://ddshoppy.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>📚 Info</b></td>
-      <td>Educational info platform</td>
-      <td align="center"><a href="https://eduif2-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>🎮 Flappy Game</b></td>
-      <td>Fun browser-based arcade game</td>
-      <td align="center"><a href="https://flappy-game-oyjc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>🛒 Trendorara</b></td>
-      <td>Online shopping platform</td>
-      <td align="center"><a href="https://trendorara.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>📖 DCodex</b></td>
-      <td>Studying platform</td>
-      <td align="center"><a href="https://dcodex-k7rf.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-    </tr>
-  </tbody>
-</table>
+| 🖥️ Project | 📝 Description | 🔗 Link |
+|-----------|---------------|---------|
+| **🍔 Food Shop** | Online food ordering platform | <a href="https://food-shop-11.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **🛍️ DD Shoppy** | E-commerce shopping app | <a href="https://ddshoppy.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **📚 Info** | Educational info platform | <a href="https://eduif2-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **🎮 Flappy Game** | Fun browser-based arcade game | <a href="https://flappy-game-oyjc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **🛒 Trendorara** | Online shopping platform | <a href="https://trendorara.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **📖 DCodex** | Studying platform | <a href="https://dcodex-k7rf.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 
 <br clear="right"/>
 
@@ -81,25 +48,13 @@
 ## 🔗 🛠️ Tech Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="65"/><br/><b>C</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="65"/><br/><b>C++</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br/><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="65"/><br/><b>Java</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="65"/><br/><b>HTML</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="65"/><br/><b>CSS</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="65"/><br/><b>JavaScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br/><b>Node.js</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65"/><br/><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/><b>MySQL</b></td>
-  </tr>
-</table>
+
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=c" width="65"/><br/><b>C</b> | <img src="https://skillicons.dev/icons?i=cpp" width="65"/><br/><b>C++</b> | <img src="https://skillicons.dev/icons?i=python" width="65"/><br/><b>Python</b> | <img src="https://skillicons.dev/icons?i=java" width="65"/><br/><b>Java</b> |
+| <img src="https://skillicons.dev/icons?i=html" width="65"/><br/><b>HTML</b> | <img src="https://skillicons.dev/icons?i=css" width="65"/><br/><b>CSS</b> | <img src="https://skillicons.dev/icons?i=js" width="65"/><br/><b>JavaScript</b> | <img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br/><b>Node.js</b> |
+| <img src="https://skillicons.dev/icons?i=docker" width="65"/><br/><b>Docker</b> | <img src="https://skillicons.dev/icons?i=git" width="65"/><br/><b>Git</b> | <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/><b>MySQL</b> | |
+
 </div>
 
 ---
