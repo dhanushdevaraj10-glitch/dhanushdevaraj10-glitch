@@ -34,7 +34,7 @@
 
 | 🖥️ Project | 📝 Description | 🔗 Link |
 |-----------|---------------|---------|
-| **🍔 Food Shop** | Online food ordering platform | <a href="https://food-shop-11.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **🍔 Food Shop** | Online food ordering platform | <a href="https://food-shop-1.vercel.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **🛍️ DD Shoppy** | E-commerce shopping app | <a href="https://html-css-jscript.vercel.app/Nostra.html"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **📚 Info** | Educational info platform | <a href="https://eduif2-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **🎮 Flappy Game** | Fun browser-based arcade game | <a href="https://flappy-game-oyjc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
