@@ -38,7 +38,7 @@
 | **🛍️ DD Shoppy** | E-commerce shopping app | <a href="https://html-css-jscript.vercel.app/Nostra.html"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **📚 Info** | Educational info platform | <a href="https://eduif2-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **🎮 Flappy Game** | Fun browser-based arcade game | <a href="https://flappy-game-oyjc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
-| **🛒 Trendorara** | Online shopping platform | <a href="https://trendorara.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
+| **🌡️ WeatherGPT** | Weather Detecting Website | <a href="https://frontend-zeta-beige-19.vercel.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **📖 DCodex** | Studying platform | <a href="https://dcodex-k7rf.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 
 <br clear="right"/>
